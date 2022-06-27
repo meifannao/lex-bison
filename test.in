@@ -1,0 +1,6 @@
+ while A < C and B < D do
+	if A = 1 then C := C + 1 
+	else
+		while A <= D do
+			A := A + 2;
+			
